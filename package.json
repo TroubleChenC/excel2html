@@ -1,0 +1,23 @@
+{
+  "name": "excel2html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TroubleChenC/excel2html.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TroubleChenC/excel2html/issues"
+  },
+  "homepage": "https://github.com/TroubleChenC/excel2html#readme",
+  "dependencies": {
+    "xlsx": "^0.16.9"
+  }
+}
